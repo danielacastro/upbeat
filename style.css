@@ -1,0 +1,47 @@
+body {
+ background-color:lightgrey;
+
+}
+
+h1 { 
+	text-align:center;
+	font-size: 40px;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 20px;
+}
+
+
+.image {
+float: center;
+width:120%;
+border:100%;
+margin-right: 150px;
+margin-left: 150px
+}
+
+.image_caption {
+float: center;
+width:120%;
+border:100%;
+margin-right: 300px;
+margin-left: 300px
+
+}
+
+.bodytext {
+
+ margin-right: 200px;
+ margin-left: 200px;
+
+
+}
+
+.floatcenter {
+	float:center;
+	margin:1.5%;
+	width: 50%;
+
